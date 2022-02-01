@@ -1,0 +1,9 @@
+Everything is working as per assignment description.
+Just a few notes to the grader: The uploading of large files takes a good amount of time. Never the less,
+this could be because of the server being busy, since each individual element in the array needs to get uploaded.
+
+I had a chat with the professor about what exactly is being uploaded to the server, and although he did say it is not the
+ideal solution, he does not see it being not allowed.
+
+Similarly I asked him in class if he wanted the buttons to be labelled as Display # or should I put the name of the file.
+He said it doesn't matter, would be easier for the TA if they are labelled as the filename. Which is what I did. 
